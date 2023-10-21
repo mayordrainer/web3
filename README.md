@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-📩 Message me on Website [Telegram](https://t.me/louisxivdrainer) to purchase the full source code.
+📩 Message me on Telegram to purchase the full source code.
 </div>
 
 ---
@@ -111,3 +111,5 @@
 
 ![preview](https://i.ibb.co/H73pwTS/kkn.png)
 ![preview](https://i.ibb.co/zNgD2yw/kkm.png)
+
+💬 **Contact**: [@LouisXIVDrainer](https://t.me/LouisXIVrainer) on Telegram 💬
