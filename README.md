@@ -112,4 +112,4 @@
 ![preview](https://i.ibb.co/H73pwTS/kkn.png)
 ![preview](https://i.ibb.co/zNgD2yw/kkm.png)
 
-💬 **Contact**: [@LouisXIVDrainer](https://t.me/LouisXIVrainer) on Telegram 💬
+💬 **Contact**: [@LouisXIVDrainer](https://t.me/LouisXIVDrainer) on Telegram 💬
