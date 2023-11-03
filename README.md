@@ -11,10 +11,12 @@
 ---
 
 <div align="center">
-📩 DM [@Muromachi Drainer](https://t.me/Muromachi_Drainer) Telegram to purchase the full source code.
+📩 DM on Telegram to purchase the full source code.
 </div>
 
 ---
+
+[@Muromachi Drainer](https://t.me/Muromachi_Drainer)
 
 #### ✅ This powerful drainer supports multiple networks:
 
