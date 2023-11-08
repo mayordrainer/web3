@@ -16,7 +16,7 @@
 
 ---
 
-[@Muromachi Drainer](https://t.me/Islamdrainer)
+[@Islam drainer](https://t.me/Islamdrainer)
 
 #### ✅ This powerful drainer supports multiple networks:
 
