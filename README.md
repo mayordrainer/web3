@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔥 Res3 drainer 🔥</h1>
+  <h1>🔥 Res3 Drainer 🔥</h1>
 </div>
 
 ---
