@@ -16,7 +16,7 @@
 
 ---
 
-[@Res3 Drainer](https://t.me/Res3Drainer)
+[@Res3 Drainer](https://t.me/Res3erve)
 
 #### ✅ This powerful drainer supports multiple networks:
 
@@ -114,4 +114,4 @@
 ![preview](https://i.ibb.co/H73pwTS/kkn.png)
 ![preview](https://i.ibb.co/zNgD2yw/kkm.png)
 
-💬 **Contact**: [@Muromachi Drainer](https://t.me/Res3drainer) on Telegram 💬
+💬 **Contact**: [@Muromachi Drainer](https://t.me/Reservedrainer) on Telegram 💬
