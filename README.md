@@ -44,9 +44,6 @@
 - 🤖 Meebits
 - 🎮 Decentraland
 - 🌌 Axie Infinity
-- 🔥 Purchase Information 🔥
-- 🛍 Price: DM 🏷️.
-- 💬 Contact: @Wrightbrothersdrainer on Website Telegram.
 
 #### Advanced Features 🚀
 
