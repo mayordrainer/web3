@@ -1,24 +1,8 @@
 <div align="center">
-  <h1>🔥 Res3 Drainer 🔥</h1>
+  <h1>🔥 Res3 🔥</h1>
 </div>
 
----
-
-<div align="center">
-🧰 Welcome to the Res3 drainer! 🧰 Our wallet drainer is a powerful script that can literally drain every single possible token including a diverse range of ERC-20 tokens, and NFTs 🌟 across multiple chains 🌐 from the victim's wallet 💼
-</div>
-
----
-
-<div align="center">
-📩 DM on Telegram to purchase the full source code.
-</div>
-
----
-
-[@Res3 Drainer](https://t.me/Res3erve)
-
-#### ✅ This powerful drainer supports multiple networks:
+#### ✅ This Supports multiple networks:
 
 - 🌐 Ethereum
 - 🚀 BNB Smart Chain
@@ -83,35 +67,3 @@
 - Permit 💰
 - WalletConnect v2.0 ✨
 
-#### 🚀 Methods for Asset Withdrawal
-
-- Native Coins: Sign, Transfer, Smart Contract 🪙
-- Tokens: Multiple withdrawal methods including Sign, Approve, Multicall, etc. 🎫
-- NFTs: Sign, Transfer, and more. 🖼
-- Smart Contracts Included 📜
-- Claim, Claim Reward, Connect, Execute, Multicall, Security Update, Swap
-
-#### 🎉 Advantages
-
-- 🔴 No red flags on your website.
-- 👛 Supports a huge number of wallets.
-- 📞 Quick technical support.
-- 🛠 Free installation and user manual.
-- 🔄 Switch between multiple robust APIs.
-- 🛠 System Requirements for Hosting
-- Ubuntu 22.04 Virtual Server 🖥
-- Ports 80 and 443 should be free. 🌐
-
-#### 🚨 Disclaimer 🚨
-
-- The product is sold for informational purposes only.
-- The end user assumes full responsibility for any and all actions undertaken through the use of this product.
-- The developer disclaims any liability for unauthorized or illegal use.
-- Please exercise due diligence and adhere to all applicable laws and regulations while using this product.
-
-#### 🖼 Previews👇
-
-![preview](https://i.ibb.co/H73pwTS/kkn.png)
-![preview](https://i.ibb.co/zNgD2yw/kkm.png)
-
-💬 **Contact**: [@Muromachi Drainer](https://t.me/Reservedrainer) on Telegram 💬
