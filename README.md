@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔥 Res3 🔥</h1>
+  <h1>🔥 Mayor Drainer Multichain Drainer #1 🔥</h1>
 </div>
 
 #### ✅ This Supports multiple networks:
